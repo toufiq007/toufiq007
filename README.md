@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mostafizur Rahman Limon</h1>
-<h3 align="left">A passionate frontend developer form Bangladesh</h3>
+<h3 align="left">A Learning Programmar and Python developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiq007&label=Profile%20views&color=0e75b6&style=flat" alt="toufiq007" /> </p>
 
