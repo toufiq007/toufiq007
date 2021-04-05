@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mostafizur Rahman Limon</h1>
-<h3 align="center">A passionate frontend developer form Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Mostafizur Rahman Limon</h1>
+<h3 align="left">A passionate frontend developer form Bangladesh</h3>
 
 - 📫 How to reach me **t.limon2342@gmail.com**
 
